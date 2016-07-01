@@ -15,4 +15,4 @@ def when_asterix_runs_group1(step, group1):
 
 @step(u'Then the terray is a bit messy')
 def then_the_terray_is_a_bit_messy(step):
-    assert True, 'This step must be implemented'
+    assert False, 'This step must be implemented'
